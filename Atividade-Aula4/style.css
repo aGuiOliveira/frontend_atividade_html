@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(34, 34, 34);
+}
+
+.desafio1 {
+    color: rgb(255, 123, 0);
+}
+
+#lista1{
+    list-style-type: lower-greek;
+    color: #00ffff;
+    background-color: rgba(19, 85, 57, 0.452);
+}
+
+#lista2{
+    list-style-type: hebrew;
+    color: #000f63;
+    background-color: rgba(136, 62, 62, 0.466);
+}
